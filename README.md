@@ -27,5 +27,5 @@ $ npm i ts-pluralizer
 Or
 
 ```
-  $ yarn add ts-pluralizer
+$ yarn add ts-pluralizer
 ```
