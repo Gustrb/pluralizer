@@ -1,6 +1,6 @@
 {
-  "name": "pluralizer",
-  "version": "1.0",
+  "name": "ts-pluralizer",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "description": "A simple typeScript library for handling plurals",
@@ -10,6 +10,10 @@
   "author": {
     "name": "gustrb",
     "email": "gustavoreisbauer@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustrb/pluralizer"
   },
   "scripts": {
     "test": "jest",
