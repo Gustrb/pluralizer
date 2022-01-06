@@ -1,0 +1,27 @@
+{
+  "name": "pluralizer",
+  "version": "1.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "description": "A simple typeScript library for handling plurals",
+  "files": [
+    "dist"
+  ],
+  "author": {
+    "name": "gustrb",
+    "email": "gustavoreisbauer@gmail.com"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "npm-publish": "yarn build && yarn publish"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.7",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
